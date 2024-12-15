@@ -1,0 +1,1 @@
+This example demonstrates the non-deterministic behavior of iterating over Perl hashes.  The order of keys printed to the console isn't guaranteed, leading to potential issues in scripts relying on a specific order.
